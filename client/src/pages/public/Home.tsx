@@ -46,7 +46,7 @@ export default function Home() {
                 Shop Now <ArrowRight className="w-4 h-4" />
               </Link>
               <Link
-                to="/products?category=cat_electronics"
+                to="/products?category=6a8205e545ee6a1023517238"
                 className="inline-flex items-center gap-2 px-6 py-3 border border-white/20 text-white font-semibold rounded-lg hover:bg-white/10 transition-colors"
               >
                 Browse Electronics
